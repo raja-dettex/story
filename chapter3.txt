@@ -1,0 +1,1 @@
+then to take these to your local repository use the command git commit -m "". for more help reagarding these call me or contact me via my contact info page or sign up for newsletter via the link which is deployed into the heroku server.
